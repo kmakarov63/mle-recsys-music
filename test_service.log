@@ -1,0 +1,8 @@
+
+2026-06-14 18:32:06,498 INFO test_service, top_recs, top-10 popular tracks: [53404, 178529, 33311009, 35505245, 24692821, 795836, 37384, 32947997, 6705392, 29544272]
+2026-06-14 18:32:22,322 INFO test_service, offline_recs, 10 offline recommendations for user_id=617032: [32947997, 18385776, 29611476, 29544272, 23559960, 29569939, 25995209, 30049955, 31219146, 31746480]
+2026-06-14 18:32:26,730 INFO test_service, add_online, Successfully added item_id=99262 to user_id=617032 online history
+2026-06-14 18:32:30,873 INFO test_service, add_online, Successfully added item_id=590303 to user_id=617032 online history
+2026-06-14 18:32:35,066 INFO test_service, add_online, Successfully added item_id=597196 to user_id=617032 online history
+2026-06-14 18:32:39,213 INFO test_service, online_recs, 10 online recommendations for user_id=617032: [99245, 21101463, 99257, 21101461, 4637878, 33882127, 99254, 99241, 590262, 695867]
+2026-06-14 18:32:42,951 INFO test_service, blended_recs, 10 blended recommendations for user_id=617032: [32947997, 99245, 18385776, 21101463, 29611476, 99257, 29544272, 21101461, 23559960, 4637878]
